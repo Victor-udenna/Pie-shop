@@ -409,12 +409,13 @@ nav li.active {
 nav a:hover {
   background-color: rgba(0, 0, 0, 0.2); }
 
-nav ul.open {
-  display: block; }
 
 nav ul {
   display: none; 
 }
+
+nav ul.open {
+  display: block; }
 
 main img {
   width: 100%;
